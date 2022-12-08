@@ -267,7 +267,7 @@ body{
 
 .whheadphonebox{
 color:#2f353d;
-line height:1.5;
+line-height: 1.5;
 font-family:SST W01 Roman,sans-serif,Helvetica Neue,Helvetica,Arial;
 font-size:0.75rem;
 width:175px;
@@ -275,7 +275,7 @@ width:175px;
 
 .hometheatreprice{
   color:#2f353d;
-  line height:1.5;
+  line-height: 1.5;
   font-family:SST W01 Roman,sans-serif,Helvetica Neue,Helvetica,Arial;
   font-size: 0.75rem;
   width:175px;
@@ -283,7 +283,7 @@ width:175px;
 
 .alphaoneprice{
   color:#2f353d;
-  line height:1.5;
+  line-height: 1.5;
   font-family:SST W01 Roman,sans-serif,Helvetica Neue,Helvetica,Arial;
   font-size:0.75rem;
   width:175px;
@@ -291,10 +291,9 @@ width:175px;
 
 .braviaprice{
   color:#2f353d;
-  line height:1.5;
+  line-height: 1.5;
   font-family:SST W01 Roman,sans-serif,Helvetica Neue,Helvetica,Arial;
   font-size:0.75rem;
-  width:175px;
 }
 
 
@@ -499,9 +498,6 @@ color: #ffffff;
 }
 
 
-.line{
-
-}
 
 form.example input[type=text] {
   padding: 10px;
